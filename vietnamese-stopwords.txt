@@ -499,8 +499,6 @@ giảm thấp
 giảm thế
 giống
 giống người
-giống nhau
-giống như
 giờ
 giờ lâu
 giờ này
@@ -585,11 +583,7 @@ khoảng
 khoảng cách
 khoảng không
 khác gì
-khác khác
-khác nhau
 khác nào
-khác thường
-khác xa
 khách
 khó
 khó biết
@@ -602,35 +596,6 @@ khó nghĩ
 khó nói
 khó thấy
 khó tránh
-không
-không ai
-không bao giờ
-không bao lâu
-không biết
-không bán
-không chỉ
-không còn
-không có
-không có gì
-không cùng
-không cần
-không cứ
-không dùng
-không gì
-không hay
-không khỏi
-không kể
-không ngoài
-không nhận
-không những
-không phải
-không phải không
-không thể
-không tính
-không điều kiện
-không được
-không đầy
-không để
 khẳng định
 khỏi
 khỏi nói
@@ -677,7 +642,6 @@ làm tăng
 làm tại
 làm tắp lự
 làm vì
-làm đúng
 làm được
 lâu
 lâu các
@@ -1388,7 +1352,6 @@ thứ bản
 thứ đến
 thửa
 thực hiện
-thực hiện đúng
 thực ra
 thực sự
 thực tế
@@ -1802,11 +1765,6 @@ yêu cầu
 đã đủ
 đó
 đó đây
-đúng
-đúng ngày
-đúng ra
-đúng tuổi
-đúng với
 đơn vị
 đưa
 đưa cho
